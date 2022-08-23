@@ -5,29 +5,32 @@
 
 ***2. MARCO TEÓRICO*** 
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/1.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/2.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/3.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/4.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/5.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/6.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/7.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/8.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/9.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/10.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/11.PNG)
 
-![]()
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/12.PNG)
+
+![](https://github.com/smvaca2/inf-tarea8/blob/dafa974c8ffc8d7905696f0b39dabff37f83a703/13.PNG)
+
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
 
 ![]()
