@@ -99,4 +99,4 @@ Para este informe fue importante entender el uso y aplicaciones de los números 
 
 ***6.Bibliografía***
 
-
+_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson**
