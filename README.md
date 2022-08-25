@@ -1,6 +1,9 @@
 # inf-tarea8
 ***1. OBJETIVOS***
 
+_Entender el uso y aplicación del sistema de números complejos
+
+_Trabajar con la impedancia
 
 
 ***2. MARCO TEÓRICO*** 
