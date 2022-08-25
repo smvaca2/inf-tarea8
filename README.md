@@ -3,8 +3,9 @@
 
 _Entender el uso y aplicación del sistema de números complejos
 
-_Trabajar con la impedancia
+_Estudiar la aplicación de impedancia y admitancia en circuitos RC y RL
 
+_Analizar circuitos RL y RC
 
 ***2. MARCO TEÓRICO*** 
 
@@ -94,6 +95,8 @@ https://youtu.be/-wb79LMXqMw
 
 ***5.Conclusiones***
 
-En conclusión, al realizar este informe pude aprender más el uso de capacitores e inductores, ya que con ello aprendí a identificar de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo de mejor manera el uso y lectura de ondas seno. Además de ello fue importante la realización y desarrollo de los ejercicios propuestos en los capitulos para llevar y reforzar los temas tratados en clase de mejor manera.
+Para este informe fue importante entender el uso y aplicaciones de los números complejos, al igual que sus operaciones. Cabe recalcar que el uso y entendimiento de las conversiones de estas es muy importante para la resolución de ejercicios planteados en la tarea. La impedancia y admitancia de igual manera fueron temas muy importantes para tener en conocimiento.
 
 ***6.Bibliografía***
+
+
