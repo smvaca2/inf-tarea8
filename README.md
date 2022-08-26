@@ -91,7 +91,7 @@ _Analizar circuitos RL y RC
 
 ***4)Video***
 
-https://youtu.be/-wb79LMXqMw
+https://youtu.be/mMWbh9cywcQ
 
 ***5.Conclusiones***
 
